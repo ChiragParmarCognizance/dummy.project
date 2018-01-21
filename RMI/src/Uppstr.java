@@ -6,7 +6,7 @@
 
 /**
  *
- * @author Bhavik
+ * @author Chirag
  */
 public interface Uppstr extends java.rmi.Remote {
     public String upString(String str) throws java.rmi.RemoteException;
